@@ -1,5 +1,3 @@
 # Hello-World
 More knowledge
-Am Ghost Cabron
-Am Kenyan
-Am here to learn more.
+Am Ghost Cabron,Kenyan,here to learn more
